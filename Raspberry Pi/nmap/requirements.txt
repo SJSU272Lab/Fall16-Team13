@@ -1,0 +1,2 @@
+sudo pip install python-nmap
+sudo apt-get install nmap
