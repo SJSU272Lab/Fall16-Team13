@@ -1,0 +1,725 @@
+2016-12-03 09:34:54 [5301] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-03 09:34:54 [5301] INFO: New setting: logdir: /var/log/squidguard
+2016-12-03 09:34:54 [5301] Added User: root
+2016-12-03 09:34:54 [5301] Added User: foo
+2016-12-03 09:34:54 [5301] Added User: bar
+2016-12-03 09:34:54 [5301] destblock good missing active content, set inactive
+2016-12-03 09:34:54 [5301] destblock local missing active content, set inactive
+2016-12-03 09:34:54 [5301] destblock porn missing active content, set inactive
+2016-12-03 09:34:54 [5301] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-03 09:34:54 [5301] INFO: create new dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-03 09:34:54 [5301] INFO: squidGuard 1.5 started (1480757694.276)
+2016-12-03 09:34:54 [5301] INFO: db update done
+2016-12-03 09:34:54 [5301] INFO: squidGuard stopped (1480757694.302)
+2016-12-03 09:39:02 [5421] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-03 09:39:02 [5421] INFO: New setting: logdir: /var/log/squidguard
+2016-12-03 09:39:02 [5421] Added User: root
+2016-12-03 09:39:02 [5421] Added User: foo
+2016-12-03 09:39:02 [5421] Added User: bar
+2016-12-03 09:39:02 [5421] destblock good missing active content, set inactive
+2016-12-03 09:39:02 [5421] destblock local missing active content, set inactive
+2016-12-03 09:39:02 [5421] destblock porn missing active content, set inactive
+2016-12-03 09:39:02 [5421] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-03 09:39:02 [5421] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-03 09:39:02 [5421] INFO: squidGuard 1.5 started (1480757942.473)
+2016-12-03 09:39:02 [5421] INFO: squidGuard ready for requests (1480757942.477)
+2016-12-03 09:50:46 [5421] INFO: squidGuard stopped (1480758646.093)
+2016-12-03 09:53:18 [943] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-03 09:53:18 [942] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-03 09:53:18 [943] INFO: New setting: logdir: /var/log/squidguard
+2016-12-03 09:53:18 [942] INFO: New setting: logdir: /var/log/squidguard
+2016-12-03 09:53:18 [943] Added User: root
+2016-12-03 09:53:18 [942] Added User: root
+2016-12-03 09:53:18 [943] Added User: foo
+2016-12-03 09:53:18 [942] Added User: foo
+2016-12-03 09:53:18 [943] Added User: bar
+2016-12-03 09:53:18 [942] Added User: bar
+2016-12-03 09:53:18 [943] destblock good missing active content, set inactive
+2016-12-03 09:53:18 [942] destblock good missing active content, set inactive
+2016-12-03 09:53:18 [943] destblock local missing active content, set inactive
+2016-12-03 09:53:18 [942] destblock local missing active content, set inactive
+2016-12-03 09:53:18 [943] destblock porn missing active content, set inactive
+2016-12-03 09:53:18 [942] destblock porn missing active content, set inactive
+2016-12-03 09:53:18 [943] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-03 09:53:18 [942] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-03 09:53:18 [942] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-03 09:53:18 [943] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-03 09:53:18 [942] INFO: squidGuard 1.5 started (1480758798.819)
+2016-12-03 09:53:18 [943] INFO: squidGuard 1.5 started (1480758798.819)
+2016-12-03 09:53:18 [942] INFO: squidGuard ready for requests (1480758798.906)
+2016-12-03 09:53:18 [943] INFO: squidGuard ready for requests (1480758798.906)
+2016-12-03 09:57:33 [944] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-03 09:57:33 [944] INFO: New setting: logdir: /var/log/squidguard
+2016-12-03 09:57:33 [944] Added User: root
+2016-12-03 09:57:33 [944] Added User: foo
+2016-12-03 09:57:33 [944] Added User: bar
+2016-12-03 09:57:33 [944] destblock good missing active content, set inactive
+2016-12-03 09:57:33 [944] destblock local missing active content, set inactive
+2016-12-03 09:57:33 [944] destblock porn missing active content, set inactive
+2016-12-03 09:57:33 [944] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-03 09:57:33 [944] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-03 09:57:33 [944] INFO: squidGuard 1.5 started (1480759053.605)
+2016-12-03 09:57:33 [944] INFO: squidGuard ready for requests (1480759053.609)
+2016-12-08 07:45:46 [1117] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-08 07:45:46 [1114] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-08 07:45:46 [1116] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-08 07:45:46 [1117] INFO: New setting: logdir: /var/log/squidguard
+2016-12-08 07:45:46 [1114] INFO: New setting: logdir: /var/log/squidguard
+2016-12-08 07:45:46 [1116] INFO: New setting: logdir: /var/log/squidguard
+2016-12-08 07:45:46 [1115] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-08 07:45:46 [1115] INFO: New setting: logdir: /var/log/squidguard
+2016-12-08 07:45:46 [1117] Added User: root
+2016-12-08 07:45:46 [1114] Added User: root
+2016-12-08 07:45:46 [1116] Added User: root
+2016-12-08 07:45:46 [1117] Added User: foo
+2016-12-08 07:45:46 [1114] Added User: foo
+2016-12-08 07:45:46 [1116] Added User: foo
+2016-12-08 07:45:46 [1117] Added User: bar
+2016-12-08 07:45:46 [1114] Added User: bar
+2016-12-08 07:45:46 [1116] Added User: bar
+2016-12-08 07:45:46 [1114] destblock good missing active content, set inactive
+2016-12-08 07:45:46 [1117] destblock good missing active content, set inactive
+2016-12-08 07:45:46 [1116] destblock good missing active content, set inactive
+2016-12-08 07:45:46 [1114] destblock local missing active content, set inactive
+2016-12-08 07:45:46 [1117] destblock local missing active content, set inactive
+2016-12-08 07:45:46 [1116] destblock local missing active content, set inactive
+2016-12-08 07:45:46 [1114] destblock porn missing active content, set inactive
+2016-12-08 07:45:46 [1117] destblock porn missing active content, set inactive
+2016-12-08 07:45:46 [1116] destblock porn missing active content, set inactive
+2016-12-08 07:45:46 [1114] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-08 07:45:46 [1117] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-08 07:45:46 [1116] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-08 07:45:46 [1115] Added User: root
+2016-12-08 07:45:46 [1115] Added User: foo
+2016-12-08 07:45:46 [1115] Added User: bar
+2016-12-08 07:45:46 [1115] destblock good missing active content, set inactive
+2016-12-08 07:45:46 [1115] destblock local missing active content, set inactive
+2016-12-08 07:45:46 [1115] destblock porn missing active content, set inactive
+2016-12-08 07:45:46 [1115] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-08 07:45:46 [1116] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-08 07:45:46 [1117] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-08 07:45:46 [1115] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-08 07:45:46 [1114] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-08 07:45:46 [1116] INFO: squidGuard 1.5 started (1481183146.160)
+2016-12-08 07:45:46 [1117] INFO: squidGuard 1.5 started (1481183146.157)
+2016-12-08 07:45:46 [1115] INFO: squidGuard 1.5 started (1481183146.158)
+2016-12-08 07:45:46 [1116] INFO: squidGuard ready for requests (1481183146.254)
+2016-12-08 07:45:46 [1117] INFO: squidGuard ready for requests (1481183146.254)
+2016-12-08 07:45:46 [1115] INFO: squidGuard ready for requests (1481183146.254)
+2016-12-08 07:45:46 [1114] INFO: squidGuard 1.5 started (1481183146.157)
+2016-12-08 07:45:46 [1114] INFO: squidGuard ready for requests (1481183146.255)
+2016-12-09 02:13:57 [1329] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 02:13:57 [1329] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 02:13:57 [1329] Added User: root
+2016-12-09 02:13:57 [1329] Added User: foo
+2016-12-09 02:13:57 [1329] Added User: bar
+2016-12-09 02:13:57 [1329] destblock good missing active content, set inactive
+2016-12-09 02:13:57 [1329] destblock local missing active content, set inactive
+2016-12-09 02:13:57 [1329] destblock porn missing active content, set inactive
+2016-12-09 02:13:57 [1329] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 02:13:57 [1329] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 02:13:57 [1329] INFO: squidGuard 1.5 started (1481249637.629)
+2016-12-09 02:13:57 [1329] INFO: squidGuard ready for requests (1481249637.712)
+2016-12-09 02:47:15 [6600] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 02:47:15 [6600] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 02:47:15 [6600] Added User: root
+2016-12-09 02:47:15 [6600] Added User: foo
+2016-12-09 02:47:15 [6600] Added User: bar
+2016-12-09 02:47:15 [6600] destblock good missing active content, set inactive
+2016-12-09 02:47:15 [6600] destblock local missing active content, set inactive
+2016-12-09 02:47:15 [6600] destblock porn missing active content, set inactive
+2016-12-09 02:47:15 [6600] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 02:47:15 [6600] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 02:47:15 [6600] INFO: squidGuard 1.5 started (1481251635.958)
+2016-12-09 02:47:15 [6600] INFO: squidGuard ready for requests (1481251635.962)
+2016-12-09 03:43:22 [1329] INFO: squidGuard stopped (1481255002.702)
+2016-12-09 03:43:22 [6600] INFO: squidGuard stopped (1481255002.702)
+2016-12-09 09:55:05 [1721] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:55:05 [1721] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:55:05 [1721] Added User: root
+2016-12-09 09:55:05 [1721] Added User: foo
+2016-12-09 09:55:05 [1721] Added User: bar
+2016-12-09 09:55:05 [1721] destblock good missing active content, set inactive
+2016-12-09 09:55:05 [1721] destblock local missing active content, set inactive
+2016-12-09 09:55:05 [1721] destblock porn missing active content, set inactive
+2016-12-09 09:55:05 [1721] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:55:05 [1721] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:55:05 [1721] INFO: squidGuard 1.5 started (1481277305.006)
+2016-12-09 09:55:05 [1721] INFO: squidGuard ready for requests (1481277305.085)
+2016-12-09 09:55:05 [1722] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:55:05 [1722] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:55:05 [1722] Added User: root
+2016-12-09 09:55:05 [1722] Added User: foo
+2016-12-09 09:55:05 [1722] Added User: bar
+2016-12-09 09:55:05 [1722] destblock good missing active content, set inactive
+2016-12-09 09:55:05 [1722] destblock local missing active content, set inactive
+2016-12-09 09:55:05 [1722] destblock porn missing active content, set inactive
+2016-12-09 09:55:05 [1722] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:55:05 [1722] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:55:05 [1722] INFO: squidGuard 1.5 started (1481277305.228)
+2016-12-09 09:55:05 [1722] INFO: squidGuard ready for requests (1481277305.233)
+2016-12-09 09:55:05 [1723] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:55:05 [1723] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:55:05 [1723] Added User: root
+2016-12-09 09:55:05 [1724] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:55:05 [1723] Added User: foo
+2016-12-09 09:55:05 [1724] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:55:05 [1723] Added User: bar
+2016-12-09 09:55:05 [1723] destblock good missing active content, set inactive
+2016-12-09 09:55:05 [1723] destblock local missing active content, set inactive
+2016-12-09 09:55:05 [1723] destblock porn missing active content, set inactive
+2016-12-09 09:55:05 [1723] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:55:05 [1723] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:55:05 [1723] INFO: squidGuard 1.5 started (1481277305.280)
+2016-12-09 09:55:05 [1724] Added User: root
+2016-12-09 09:55:05 [1723] INFO: squidGuard ready for requests (1481277305.286)
+2016-12-09 09:55:05 [1724] Added User: foo
+2016-12-09 09:55:05 [1724] Added User: bar
+2016-12-09 09:55:05 [1724] destblock good missing active content, set inactive
+2016-12-09 09:55:05 [1724] destblock local missing active content, set inactive
+2016-12-09 09:55:05 [1724] destblock porn missing active content, set inactive
+2016-12-09 09:55:05 [1724] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:55:05 [1724] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:55:05 [1724] INFO: squidGuard 1.5 started (1481277305.283)
+2016-12-09 09:55:05 [1724] INFO: squidGuard ready for requests (1481277305.287)
+2016-12-09 09:55:06 [1725] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:55:06 [1725] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:55:06 [1725] Added User: root
+2016-12-09 09:55:06 [1725] Added User: foo
+2016-12-09 09:55:06 [1725] Added User: bar
+2016-12-09 09:55:06 [1725] destblock good missing active content, set inactive
+2016-12-09 09:55:06 [1725] destblock local missing active content, set inactive
+2016-12-09 09:55:06 [1725] destblock porn missing active content, set inactive
+2016-12-09 09:55:06 [1725] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:55:06 [1725] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:55:06 [1725] INFO: squidGuard 1.5 started (1481277306.112)
+2016-12-09 09:55:06 [1725] INFO: squidGuard ready for requests (1481277306.114)
+2016-12-09 09:55:57 [1723] INFO: squidGuard stopped (1481277357.050)
+2016-12-09 09:55:57 [1725] INFO: squidGuard stopped (1481277357.052)
+2016-12-09 09:55:57 [1722] INFO: squidGuard stopped (1481277357.053)
+2016-12-09 09:55:57 [1721] INFO: squidGuard stopped (1481277357.054)
+2016-12-09 09:55:57 [1724] INFO: squidGuard stopped (1481277357.060)
+2016-12-09 09:56:46 [1836] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:56:46 [1836] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:56:46 [1836] Added User: root
+2016-12-09 09:56:46 [1836] Added User: foo
+2016-12-09 09:56:46 [1836] Added User: bar
+2016-12-09 09:56:46 [1836] destblock good missing active content, set inactive
+2016-12-09 09:56:46 [1836] destblock local missing active content, set inactive
+2016-12-09 09:56:46 [1836] destblock porn missing active content, set inactive
+2016-12-09 09:56:46 [1836] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:56:46 [1836] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:56:46 [1836] INFO: squidGuard 1.5 started (1481277406.427)
+2016-12-09 09:56:46 [1836] INFO: squidGuard ready for requests (1481277406.431)
+2016-12-09 09:57:56 [1836] INFO: squidGuard stopped (1481277476.137)
+2016-12-09 09:57:59 [1869] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:57:59 [1869] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:57:59 [1869] Added User: root
+2016-12-09 09:57:59 [1869] Added User: foo
+2016-12-09 09:57:59 [1869] Added User: bar
+2016-12-09 09:57:59 [1869] destblock good missing active content, set inactive
+2016-12-09 09:57:59 [1869] destblock local missing active content, set inactive
+2016-12-09 09:57:59 [1869] destblock porn missing active content, set inactive
+2016-12-09 09:57:59 [1869] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:57:59 [1869] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:57:59 [1869] INFO: squidGuard 1.5 started (1481277479.151)
+2016-12-09 09:57:59 [1869] INFO: squidGuard ready for requests (1481277479.153)
+2016-12-09 09:58:06 [1870] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:58:06 [1870] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:58:06 [1870] Added User: root
+2016-12-09 09:58:06 [1870] Added User: foo
+2016-12-09 09:58:06 [1870] Added User: bar
+2016-12-09 09:58:06 [1870] destblock good missing active content, set inactive
+2016-12-09 09:58:06 [1870] destblock local missing active content, set inactive
+2016-12-09 09:58:06 [1870] destblock porn missing active content, set inactive
+2016-12-09 09:58:06 [1870] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:58:06 [1870] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:58:06 [1870] INFO: squidGuard 1.5 started (1481277486.604)
+2016-12-09 09:58:06 [1870] INFO: squidGuard ready for requests (1481277486.608)
+2016-12-09 09:58:06 [1871] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:58:06 [1871] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:58:06 [1871] Added User: root
+2016-12-09 09:58:06 [1871] Added User: foo
+2016-12-09 09:58:06 [1871] Added User: bar
+2016-12-09 09:58:06 [1871] destblock good missing active content, set inactive
+2016-12-09 09:58:06 [1871] destblock local missing active content, set inactive
+2016-12-09 09:58:06 [1871] destblock porn missing active content, set inactive
+2016-12-09 09:58:06 [1871] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:58:06 [1871] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:58:06 [1871] INFO: squidGuard 1.5 started (1481277486.612)
+2016-12-09 09:58:06 [1871] INFO: squidGuard ready for requests (1481277486.618)
+2016-12-09 09:58:06 [1872] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 09:58:06 [1872] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 09:58:06 [1872] Added User: root
+2016-12-09 09:58:06 [1872] Added User: foo
+2016-12-09 09:58:06 [1872] Added User: bar
+2016-12-09 09:58:06 [1872] destblock good missing active content, set inactive
+2016-12-09 09:58:06 [1872] destblock local missing active content, set inactive
+2016-12-09 09:58:06 [1872] destblock porn missing active content, set inactive
+2016-12-09 09:58:06 [1872] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 09:58:06 [1872] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 09:58:06 [1872] INFO: squidGuard 1.5 started (1481277486.622)
+2016-12-09 09:58:06 [1872] INFO: squidGuard ready for requests (1481277486.624)
+2016-12-09 10:08:34 [1869] INFO: squidGuard stopped (1481278114.069)
+2016-12-09 10:08:34 [1872] INFO: squidGuard stopped (1481278114.069)
+2016-12-09 10:08:34 [1871] INFO: squidGuard stopped (1481278114.069)
+2016-12-09 10:08:34 [1870] INFO: squidGuard stopped (1481278114.071)
+2016-12-09 10:09:30 [2729] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:09:30 [2729] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:09:30 [2729] Added User: root
+2016-12-09 10:09:30 [2729] Added User: foo
+2016-12-09 10:09:30 [2729] Added User: bar
+2016-12-09 10:09:30 [2729] destblock good missing active content, set inactive
+2016-12-09 10:09:30 [2729] destblock local missing active content, set inactive
+2016-12-09 10:09:30 [2729] destblock porn missing active content, set inactive
+2016-12-09 10:09:30 [2729] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:09:30 [2729] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:09:30 [2729] INFO: squidGuard 1.5 started (1481278170.062)
+2016-12-09 10:09:30 [2729] INFO: squidGuard ready for requests (1481278170.066)
+2016-12-09 10:09:30 [2730] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:09:30 [2730] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:09:30 [2730] Added User: root
+2016-12-09 10:09:30 [2730] Added User: foo
+2016-12-09 10:09:30 [2730] Added User: bar
+2016-12-09 10:09:30 [2730] destblock good missing active content, set inactive
+2016-12-09 10:09:30 [2730] destblock local missing active content, set inactive
+2016-12-09 10:09:30 [2730] destblock porn missing active content, set inactive
+2016-12-09 10:09:30 [2730] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:09:30 [2730] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:09:30 [2730] INFO: squidGuard 1.5 started (1481278170.657)
+2016-12-09 10:09:30 [2730] INFO: squidGuard ready for requests (1481278170.662)
+2016-12-09 10:09:31 [2732] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:09:31 [2732] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:09:31 [2732] Added User: root
+2016-12-09 10:09:31 [2732] Added User: foo
+2016-12-09 10:09:31 [2732] Added User: bar
+2016-12-09 10:09:31 [2732] destblock good missing active content, set inactive
+2016-12-09 10:09:31 [2732] destblock local missing active content, set inactive
+2016-12-09 10:09:31 [2732] destblock porn missing active content, set inactive
+2016-12-09 10:09:31 [2732] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:09:31 [2732] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:09:31 [2732] INFO: squidGuard 1.5 started (1481278171.524)
+2016-12-09 10:09:31 [2732] INFO: squidGuard ready for requests (1481278171.529)
+2016-12-09 10:09:31 [2731] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:09:31 [2731] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:09:31 [2731] Added User: root
+2016-12-09 10:09:31 [2731] Added User: foo
+2016-12-09 10:09:31 [2731] Added User: bar
+2016-12-09 10:09:31 [2731] destblock good missing active content, set inactive
+2016-12-09 10:09:31 [2731] destblock local missing active content, set inactive
+2016-12-09 10:09:31 [2731] destblock porn missing active content, set inactive
+2016-12-09 10:09:31 [2731] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:09:31 [2731] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:09:31 [2731] INFO: squidGuard 1.5 started (1481278171.535)
+2016-12-09 10:09:31 [2731] INFO: squidGuard ready for requests (1481278171.540)
+2016-12-09 10:09:31 [2733] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:09:31 [2733] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:09:31 [2733] Added User: root
+2016-12-09 10:09:31 [2733] Added User: foo
+2016-12-09 10:09:31 [2733] Added User: bar
+2016-12-09 10:09:31 [2733] destblock good missing active content, set inactive
+2016-12-09 10:09:31 [2733] destblock local missing active content, set inactive
+2016-12-09 10:09:31 [2733] destblock porn missing active content, set inactive
+2016-12-09 10:09:31 [2733] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:09:31 [2733] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:09:31 [2733] INFO: squidGuard 1.5 started (1481278171.573)
+2016-12-09 10:09:31 [2733] INFO: squidGuard ready for requests (1481278171.577)
+2016-12-09 10:10:25 [2733] INFO: squidGuard stopped (1481278225.979)
+2016-12-09 10:10:25 [2732] INFO: squidGuard stopped (1481278225.981)
+2016-12-09 10:10:25 [2730] INFO: squidGuard stopped (1481278225.983)
+2016-12-09 10:10:25 [2729] INFO: squidGuard stopped (1481278225.984)
+2016-12-09 10:10:25 [2731] INFO: squidGuard stopped (1481278225.984)
+2016-12-09 10:43:23 [1438] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:43:23 [1438] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:43:23 [1438] Added User: root
+2016-12-09 10:43:23 [1438] Added User: foo
+2016-12-09 10:43:23 [1438] Added User: bar
+2016-12-09 10:43:23 [1438] destblock good missing active content, set inactive
+2016-12-09 10:43:23 [1438] destblock local missing active content, set inactive
+2016-12-09 10:43:23 [1438] destblock porn missing active content, set inactive
+2016-12-09 10:43:23 [1438] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:43:23 [1438] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:43:23 [1438] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:43:23 [1438] INFO: squidGuard 1.5 started (1481280203.577)
+2016-12-09 10:43:23 [1438] INFO: squidGuard ready for requests (1481280203.656)
+2016-12-09 10:43:24 [1439] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:43:24 [1439] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:43:24 [1439] Added User: root
+2016-12-09 10:43:24 [1439] Added User: foo
+2016-12-09 10:43:24 [1439] Added User: bar
+2016-12-09 10:43:24 [1439] destblock good missing active content, set inactive
+2016-12-09 10:43:24 [1439] destblock local missing active content, set inactive
+2016-12-09 10:43:24 [1439] destblock porn missing active content, set inactive
+2016-12-09 10:43:24 [1439] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:43:24 [1439] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:43:24 [1439] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:43:24 [1439] INFO: squidGuard 1.5 started (1481280204.151)
+2016-12-09 10:43:24 [1439] INFO: squidGuard ready for requests (1481280204.155)
+2016-12-09 10:44:26 [1438] INFO: squidGuard stopped (1481280266.187)
+2016-12-09 10:44:26 [1439] INFO: squidGuard stopped (1481280266.190)
+2016-12-09 10:45:08 [1526] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:45:08 [1526] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:45:08 [1526] Added User: root
+2016-12-09 10:45:08 [1526] Added User: foo
+2016-12-09 10:45:08 [1526] Added User: bar
+2016-12-09 10:45:08 [1526] destblock good missing active content, set inactive
+2016-12-09 10:45:08 [1526] destblock local missing active content, set inactive
+2016-12-09 10:45:08 [1526] destblock porn missing active content, set inactive
+2016-12-09 10:45:08 [1526] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:45:08 [1526] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:45:08 [1526] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:45:08 [1526] INFO: squidGuard 1.5 started (1481280308.797)
+2016-12-09 10:45:08 [1526] INFO: squidGuard ready for requests (1481280308.802)
+2016-12-09 10:45:28 [1573] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:45:28 [1573] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:45:28 [1573] Added User: root
+2016-12-09 10:45:28 [1573] Added User: foo
+2016-12-09 10:45:28 [1573] Added User: bar
+2016-12-09 10:45:28 [1573] destblock good missing active content, set inactive
+2016-12-09 10:45:28 [1573] destblock local missing active content, set inactive
+2016-12-09 10:45:28 [1573] destblock porn missing active content, set inactive
+2016-12-09 10:45:28 [1573] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:45:28 [1573] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:45:28 [1573] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:45:28 [1573] INFO: squidGuard 1.5 started (1481280328.975)
+2016-12-09 10:45:28 [1573] INFO: squidGuard ready for requests (1481280328.980)
+2016-12-09 10:45:38 [1574] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:45:38 [1574] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:45:38 [1574] Added User: root
+2016-12-09 10:45:38 [1574] Added User: foo
+2016-12-09 10:45:38 [1574] Added User: bar
+2016-12-09 10:45:38 [1574] destblock good missing active content, set inactive
+2016-12-09 10:45:38 [1574] destblock local missing active content, set inactive
+2016-12-09 10:45:38 [1574] destblock porn missing active content, set inactive
+2016-12-09 10:45:38 [1574] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:45:38 [1574] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:45:38 [1574] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:45:38 [1574] INFO: squidGuard 1.5 started (1481280338.872)
+2016-12-09 10:45:38 [1574] INFO: squidGuard ready for requests (1481280338.877)
+2016-12-09 10:46:17 [1526] INFO: squidGuard stopped (1481280377.628)
+2016-12-09 10:46:17 [1574] INFO: squidGuard stopped (1481280377.629)
+2016-12-09 10:46:17 [1573] INFO: squidGuard stopped (1481280377.629)
+2016-12-09 10:48:18 [1608] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:48:18 [1608] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:48:18 [1608] Added User: root
+2016-12-09 10:48:18 [1608] Added User: foo
+2016-12-09 10:48:18 [1608] Added User: bar
+2016-12-09 10:48:18 [1608] destblock good missing active content, set inactive
+2016-12-09 10:48:18 [1608] destblock local missing active content, set inactive
+2016-12-09 10:48:18 [1608] destblock porn missing active content, set inactive
+2016-12-09 10:48:18 [1608] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:48:18 [1608] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:48:18 [1608] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:48:18 [1608] INFO: squidGuard 1.5 started (1481280498.629)
+2016-12-09 10:48:18 [1608] INFO: squidGuard ready for requests (1481280498.633)
+2016-12-09 10:50:13 [1701] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:50:13 [1701] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:50:13 [1701] Added User: root
+2016-12-09 10:50:13 [1701] Added User: foo
+2016-12-09 10:50:13 [1701] Added User: bar
+2016-12-09 10:50:13 [1701] destblock good missing active content, set inactive
+2016-12-09 10:50:13 [1701] destblock local missing active content, set inactive
+2016-12-09 10:50:13 [1701] destblock porn missing active content, set inactive
+2016-12-09 10:50:13 [1701] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:50:13 [1701] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:50:13 [1701] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:50:13 [1701] INFO: squidGuard 1.5 started (1481280613.335)
+2016-12-09 10:50:13 [1701] INFO: squidGuard ready for requests (1481280613.340)
+2016-12-09 10:50:14 [1702] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:50:14 [1702] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:50:14 [1702] Added User: root
+2016-12-09 10:50:14 [1702] Added User: foo
+2016-12-09 10:50:14 [1702] Added User: bar
+2016-12-09 10:50:14 [1702] destblock good missing active content, set inactive
+2016-12-09 10:50:14 [1702] destblock local missing active content, set inactive
+2016-12-09 10:50:14 [1702] destblock porn missing active content, set inactive
+2016-12-09 10:50:14 [1702] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:50:14 [1702] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:50:14 [1702] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:50:14 [1702] INFO: squidGuard 1.5 started (1481280614.241)
+2016-12-09 10:50:14 [1702] INFO: squidGuard ready for requests (1481280614.245)
+2016-12-09 10:51:02 [1608] INFO: squidGuard stopped (1481280662.315)
+2016-12-09 10:51:02 [1702] INFO: squidGuard stopped (1481280662.316)
+2016-12-09 10:51:02 [1701] INFO: squidGuard stopped (1481280662.317)
+2016-12-09 10:51:14 [1745] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:51:14 [1745] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:51:14 [1745] Added User: root
+2016-12-09 10:51:14 [1745] Added User: foo
+2016-12-09 10:51:14 [1745] Added User: bar
+2016-12-09 10:51:14 [1745] destblock good missing active content, set inactive
+2016-12-09 10:51:14 [1745] destblock local missing active content, set inactive
+2016-12-09 10:51:14 [1745] destblock porn missing active content, set inactive
+2016-12-09 10:51:14 [1745] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:51:14 [1745] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:51:14 [1745] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:51:14 [1745] INFO: squidGuard 1.5 started (1481280674.215)
+2016-12-09 10:51:14 [1745] INFO: squidGuard ready for requests (1481280674.220)
+2016-12-09 10:53:16 [1746] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:53:16 [1746] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:53:16 [1746] Added User: root
+2016-12-09 10:53:16 [1746] Added User: foo
+2016-12-09 10:53:16 [1746] Added User: bar
+2016-12-09 10:53:16 [1746] destblock good missing active content, set inactive
+2016-12-09 10:53:16 [1746] destblock local missing active content, set inactive
+2016-12-09 10:53:16 [1746] destblock porn missing active content, set inactive
+2016-12-09 10:53:16 [1746] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:53:16 [1746] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:53:16 [1746] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:53:16 [1746] INFO: squidGuard 1.5 started (1481280796.251)
+2016-12-09 10:53:16 [1746] INFO: squidGuard ready for requests (1481280796.255)
+2016-12-09 10:54:38 [1839] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:54:38 [1839] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:54:38 [1839] Added User: root
+2016-12-09 10:54:38 [1839] Added User: foo
+2016-12-09 10:54:38 [1839] Added User: bar
+2016-12-09 10:54:38 [1839] destblock good missing active content, set inactive
+2016-12-09 10:54:38 [1839] destblock local missing active content, set inactive
+2016-12-09 10:54:38 [1839] destblock porn missing active content, set inactive
+2016-12-09 10:54:38 [1839] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:54:38 [1839] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:54:38 [1839] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:54:38 [1839] INFO: squidGuard 1.5 started (1481280878.537)
+2016-12-09 10:54:38 [1839] INFO: squidGuard ready for requests (1481280878.546)
+2016-12-09 10:54:38 [1842] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:54:38 [1842] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:54:38 [1843] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:54:38 [1843] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:54:38 [1842] Added User: root
+2016-12-09 10:54:38 [1843] Added User: root
+2016-12-09 10:54:38 [1843] Added User: foo
+2016-12-09 10:54:38 [1843] Added User: bar
+2016-12-09 10:54:38 [1843] destblock good missing active content, set inactive
+2016-12-09 10:54:38 [1843] destblock local missing active content, set inactive
+2016-12-09 10:54:38 [1843] destblock porn missing active content, set inactive
+2016-12-09 10:54:38 [1843] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:54:38 [1843] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:54:38 [1843] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:54:38 [1842] Added User: foo
+2016-12-09 10:54:38 [1842] Added User: bar
+2016-12-09 10:54:38 [1842] destblock good missing active content, set inactive
+2016-12-09 10:54:38 [1842] destblock local missing active content, set inactive
+2016-12-09 10:54:38 [1842] destblock porn missing active content, set inactive
+2016-12-09 10:54:38 [1842] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:54:38 [1842] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:54:38 [1843] INFO: squidGuard 1.5 started (1481280878.557)
+2016-12-09 10:54:38 [1843] INFO: squidGuard ready for requests (1481280878.562)
+2016-12-09 10:54:38 [1842] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:54:38 [1842] INFO: squidGuard 1.5 started (1481280878.556)
+2016-12-09 10:54:38 [1842] INFO: squidGuard ready for requests (1481280878.564)
+2016-12-09 10:54:38 [1841] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:54:38 [1841] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:54:38 [1841] Added User: root
+2016-12-09 10:54:38 [1841] Added User: foo
+2016-12-09 10:54:38 [1841] Added User: bar
+2016-12-09 10:54:38 [1841] destblock good missing active content, set inactive
+2016-12-09 10:54:38 [1841] destblock local missing active content, set inactive
+2016-12-09 10:54:38 [1841] destblock porn missing active content, set inactive
+2016-12-09 10:54:38 [1841] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:54:38 [1841] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:54:38 [1840] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 10:54:38 [1840] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 10:54:38 [1841] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:54:38 [1841] INFO: squidGuard 1.5 started (1481280878.566)
+2016-12-09 10:54:38 [1840] Added User: root
+2016-12-09 10:54:38 [1841] INFO: squidGuard ready for requests (1481280878.573)
+2016-12-09 10:54:38 [1840] Added User: foo
+2016-12-09 10:54:38 [1840] Added User: bar
+2016-12-09 10:54:38 [1840] destblock good missing active content, set inactive
+2016-12-09 10:54:38 [1840] destblock local missing active content, set inactive
+2016-12-09 10:54:38 [1840] destblock porn missing active content, set inactive
+2016-12-09 10:54:38 [1840] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 10:54:38 [1840] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 10:54:38 [1840] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 10:54:38 [1840] INFO: squidGuard 1.5 started (1481280878.571)
+2016-12-09 10:54:38 [1840] INFO: squidGuard ready for requests (1481280878.576)
+2016-12-09 11:23:52 [1840] INFO: squidGuard stopped (1481282632.368)
+2016-12-09 11:23:52 [1745] INFO: squidGuard stopped (1481282632.368)
+2016-12-09 11:23:52 [1842] INFO: squidGuard stopped (1481282632.369)
+2016-12-09 11:23:52 [1843] INFO: squidGuard stopped (1481282632.369)
+2016-12-09 11:23:52 [1746] INFO: squidGuard stopped (1481282632.370)
+2016-12-09 11:23:52 [1839] INFO: squidGuard stopped (1481282632.372)
+2016-12-09 11:23:52 [1841] INFO: squidGuard stopped (1481282632.374)
+2016-12-09 11:25:16 [2510] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-09 11:25:16 [2510] INFO: New setting: logdir: /var/log/squidguard
+2016-12-09 11:25:16 [2510] Added User: root
+2016-12-09 11:25:16 [2510] Added User: foo
+2016-12-09 11:25:16 [2510] Added User: bar
+2016-12-09 11:25:16 [2510] destblock good missing active content, set inactive
+2016-12-09 11:25:16 [2510] destblock local missing active content, set inactive
+2016-12-09 11:25:16 [2510] destblock porn missing active content, set inactive
+2016-12-09 11:25:16 [2510] init domainlist /var/lib/squidguard/db/testdomains
+2016-12-09 11:25:16 [2510] INFO: loading dbfile /var/lib/squidguard/db/testdomains.db
+2016-12-09 11:25:16 [2510] init expressionlist /var/lib/squidguard/db/blockedexpressions
+2016-12-09 11:25:16 [2510] INFO: squidGuard 1.5 started (1481282716.751)
+2016-12-09 11:25:16 [2510] INFO: squidGuard ready for requests (1481282716.756)
+2016-12-09 11:31:17 [2510] INFO: squidGuard stopped (1481283077.831)
+2016-12-12 08:39:42 [1498] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 08:39:42 [1498] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 08:39:42 [1498] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 08:39:42 [1498] ERROR: Going into emergency mode
+2016-12-12 08:47:19 [1594] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 08:47:19 [1594] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 08:47:19 [1594] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 08:47:19 [1594] ERROR: Going into emergency mode
+2016-12-12 08:55:54 [1498] ERROR: Ending emergency mode, stdin empty
+2016-12-12 08:55:54 [1594] ERROR: Ending emergency mode, stdin empty
+2016-12-12 08:55:56 [1762] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 08:55:56 [1762] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 08:55:56 [1762] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 08:55:56 [1762] ERROR: Going into emergency mode
+2016-12-12 08:56:11 [1763] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 08:56:11 [1763] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 08:56:11 [1763] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 08:56:11 [1763] ERROR: Going into emergency mode
+2016-12-12 08:59:05 [1763] ERROR: Ending emergency mode, stdin empty
+2016-12-12 08:59:05 [1762] ERROR: Ending emergency mode, stdin empty
+2016-12-12 08:59:09 [1820] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 08:59:09 [1820] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 08:59:09 [1820] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 08:59:09 [1820] ERROR: Going into emergency mode
+2016-12-12 08:59:45 [1820] ERROR: Ending emergency mode, stdin empty
+2016-12-12 08:59:48 [1852] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 08:59:48 [1852] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 08:59:48 [1852] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 08:59:48 [1852] ERROR: Going into emergency mode
+2016-12-12 09:00:35 [1852] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:00:37 [1937] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:00:37 [1937] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:00:37 [1937] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:00:37 [1937] ERROR: Going into emergency mode
+2016-12-12 09:00:38 [1938] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:00:38 [1938] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:00:38 [1938] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:00:38 [1938] ERROR: Going into emergency mode
+2016-12-12 09:02:28 [1937] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:02:28 [1938] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:02:30 [1981] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:02:30 [1981] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:02:30 [1981] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:02:30 [1981] ERROR: Going into emergency mode
+2016-12-12 09:07:26 [1981] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:07:41 [2040] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:07:41 [2040] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:07:41 [2040] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:07:41 [2040] ERROR: Going into emergency mode
+2016-12-12 09:18:37 [2040] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:19:22 [2247] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:19:22 [2247] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:19:22 [2247] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:19:22 [2247] ERROR: Going into emergency mode
+2016-12-12 09:19:22 [2248] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:19:22 [2248] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:19:22 [2248] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:19:22 [2248] ERROR: Going into emergency mode
+2016-12-12 09:19:22 [2249] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:19:22 [2249] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:19:22 [2249] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:19:22 [2249] ERROR: Going into emergency mode
+2016-12-12 09:27:08 [2247] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:27:08 [2248] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:27:08 [2249] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:27:30 [2859] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:27:30 [2859] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:27:30 [2859] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:27:30 [2859] ERROR: Going into emergency mode
+2016-12-12 09:27:30 [2858] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:27:30 [2858] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:27:30 [2858] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:27:30 [2858] ERROR: Going into emergency mode
+2016-12-12 09:35:17 [2873] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 09:35:17 [2873] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 09:35:17 [2873] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 09:35:17 [2873] ERROR: Going into emergency mode
+2016-12-12 09:57:35 [2858] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:57:35 [2873] ERROR: Ending emergency mode, stdin empty
+2016-12-12 09:57:35 [2859] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:06:28 [3036] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:06:28 [3036] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:06:28 [3036] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:06:28 [3036] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3091] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3091] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3091] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3091] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3092] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3092] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3092] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3092] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3093] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3093] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3093] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3093] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3094] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3094] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3094] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3094] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3095] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3095] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3095] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3095] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3096] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3096] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3096] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3096] ERROR: Going into emergency mode
+2016-12-12 10:12:46 [3097] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:12:46 [3097] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:12:46 [3097] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:12:46 [3097] ERROR: Going into emergency mode
+2016-12-12 10:14:44 [3036] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3091] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3093] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3094] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3092] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3095] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3097] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:14:44 [3096] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:15:45 [3148] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:15:45 [3148] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:15:45 [3148] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:15:45 [3148] ERROR: Going into emergency mode
+2016-12-12 10:15:45 [3149] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 10:15:45 [3149] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 10:15:45 [3149] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 10:15:45 [3149] ERROR: Going into emergency mode
+2016-12-12 10:28:41 [3149] ERROR: Ending emergency mode, stdin empty
+2016-12-12 10:28:41 [3148] ERROR: Ending emergency mode, stdin empty
+2016-12-12 22:38:37 [1624] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 22:38:37 [1624] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 22:38:37 [1624] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 22:38:37 [1624] ERROR: Going into emergency mode
+2016-12-12 23:04:54 [3417] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 23:04:54 [3417] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 23:04:54 [3417] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 23:04:54 [3417] ERROR: Going into emergency mode
+2016-12-12 23:04:54 [3418] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-12 23:04:54 [3418] INFO: New setting: logdir: /var/log/squidguard
+2016-12-12 23:04:54 [3418] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-12 23:04:54 [3418] ERROR: Going into emergency mode
+2016-12-13 00:19:19 [1624] ERROR: Ending emergency mode, stdin empty
+2016-12-13 00:19:19 [3418] ERROR: Ending emergency mode, stdin empty
+2016-12-13 00:19:19 [3417] ERROR: Ending emergency mode, stdin empty
+2016-12-13 01:11:54 [10622] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-13 01:11:54 [10622] INFO: New setting: logdir: /var/log/squidguard
+2016-12-13 01:11:54 [10622] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-13 01:11:54 [10622] ERROR: Going into emergency mode
+2016-12-13 01:11:58 [10626] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-13 01:11:58 [10626] INFO: New setting: logdir: /var/log/squidguard
+2016-12-13 01:11:58 [10626] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-13 01:11:58 [10626] ERROR: Going into emergency mode
+2016-12-13 01:14:14 [10626] ERROR: Ending emergency mode, stdin empty
+2016-12-13 01:14:14 [10622] ERROR: Ending emergency mode, stdin empty
+2016-12-13 01:45:47 [998] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-13 01:45:47 [997] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-13 01:45:47 [998] INFO: New setting: logdir: /var/log/squidguard
+2016-12-13 01:45:47 [997] INFO: New setting: logdir: /var/log/squidguard
+2016-12-13 01:45:47 [998] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-13 01:45:47 [997] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-13 01:45:47 [998] ERROR: Going into emergency mode
+2016-12-13 01:45:47 [997] ERROR: Going into emergency mode
+2016-12-13 02:15:03 [997] ERROR: Ending emergency mode, stdin empty
+2016-12-13 02:15:03 [998] ERROR: Ending emergency mode, stdin empty
+2016-12-13 02:26:22 [4168] INFO: New setting: dbhome: /var/lib/squidguard/db
+2016-12-13 02:26:22 [4168] INFO: New setting: logdir: /var/log/squidguard
+2016-12-13 02:26:22 [4168] FATAL: syntax error in configfile /etc/squidguard/squidGuard.conf line 10
+2016-12-13 02:26:22 [4168] ERROR: Going into emergency mode
+2016-12-13 02:30:35 [4168] ERROR: Ending emergency mode, stdin empty
