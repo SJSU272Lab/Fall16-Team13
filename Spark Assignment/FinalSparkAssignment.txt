@@ -1,0 +1,17 @@
+Apache Spark Assignment:  Team 13
+
+                                       
+Steps Followed:
+
+1) We acquired Apache Spark service in Bluemix.
+
+2) For Analysis we used the SAT score datasets.
+(http://www.cde.ca.gov/ds/sp/ai/ )
+
+3) We analyzed the mean Sat scores for Verbal, math and writing section over the years (2009-2013).
+
+4) We plotted graph and pie chart for them using various queries.
+
+5) The link to our team’s jupyter notebook:
+
+https://new-console.ng.bluemix.net/data/notebooks/478ff3ce-311b-4975-ac07-ad96230fb02c/view?access_token=d909b71d373c575c054b50e0c5f75697248262ca6db2feac79b5a6875ad1e2cd
